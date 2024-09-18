@@ -1,0 +1,73 @@
+.contenedor{
+    display: flex;
+    gap: 1%;   
+}
+
+.formulario{
+    background-color: rgb(5, 173, 202);
+    width: 30%;
+    padding-left: 1%;
+}
+
+.datos{
+    padding: 1%;
+    background-color:rgb(5, 173, 202) ;
+    width: 70%;
+}
+
+.frm_update{
+    padding: 1%;
+    width: 30%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(5, 173, 202);
+}
+
+.form-label{
+    width: 20%;
+    padding: 1%;
+    height: 1px;
+    border-radius: 5px;
+    margin-top: 1px;
+}
+
+.form-control{
+
+}
+
+.btn1{
+    margin: 5px;
+    width: 40%;
+    height: 30px;
+    background-color: rgb(30, 168, 37);
+    border-radius: 5px;
+    color: white;
+}
+
+.btn2{
+    margin: 5px;
+    width: 40%;
+    height: 30px;
+    background-color: rgb(206, 19, 19);
+    border-radius: 5px;
+    color: white;
+}
+
+#ico-editar{
+    color:rgb(28, 189, 69);
+}
+#ico-borrar{
+    color:rgb(236, 10, 10);
+}
+
+
+
+
+
+
+
+
+
+
+
+
